@@ -1,0 +1,19 @@
+.portfolio__wrapper {
+  max-width: 1100px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.portfolio__filters {
+  padding: 20px 10px;
+}
+
+.portfolio__image-container {
+  display: flex;
+  justify-content: space-between;
+  /* flex-wrap: wrap; */
+}
+
+.portfolio__column {
+  width: 32.5%;
+}
